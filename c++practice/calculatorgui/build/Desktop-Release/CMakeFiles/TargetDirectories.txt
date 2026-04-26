@@ -1,0 +1,9 @@
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/calculatorgui.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/edit_cache.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/list_install_components.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/install.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/install/local.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/install/strip.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/calculatorgui_autogen_timestamp_deps.dir
+/home/manojavya/Desktop/Code/c++practice/calculatorgui/build/Desktop-Release/CMakeFiles/calculatorgui_autogen.dir
