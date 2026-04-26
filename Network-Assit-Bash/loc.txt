@@ -1,0 +1,11 @@
+Version 0.0.1
+Developers: AlphaWolf6940
+--------------------------------------------------------------
+List of all possible commands in the app:
+myip - Prints User IP (May not work if user is using a VPN)
+mytime - Prints User Timezone
+myssid - Prints User WiFi SSID (May not work if user is using a VPN)
+mysip - Prints the users stored IP, only works after the user has given the app his/her ip address using the setip command
+setip - Sets the users IP address, this is used for the mysip command, this is not required for the app to work but it can be used to store the users IP address for later use
+help - Prints this message
+man - shows Network-Assit man page
